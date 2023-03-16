@@ -1,0 +1,9 @@
+prefix=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/Question_One/.conda/envs/Question_One
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 1.1.1t
+Requires: libssl libcrypto
