@@ -1,0 +1,11 @@
+prefix=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/Question_Seven
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/Question_Seven/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
