@@ -1,0 +1,66 @@
+==> 2023-03-22 21:19:09 <==
+# cmd: /Users/weiyihai/opt/anaconda3/bin/conda create -p /Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/QuestionNine -y python=3.10
+# conda version: 22.9.0
++defaults/noarch::tzdata-2022g-h04d1e81_0
++defaults/osx-arm64::bzip2-1.0.8-h620ffc9_4
++defaults/osx-arm64::ca-certificates-2023.01.10-hca03da5_0
++defaults/osx-arm64::certifi-2022.12.7-py310hca03da5_0
++defaults/osx-arm64::libffi-3.4.2-hca03da5_6
++defaults/osx-arm64::ncurses-6.4-h313beb8_0
++defaults/osx-arm64::openssl-1.1.1t-h1a28f6b_0
++defaults/osx-arm64::pip-23.0.1-py310hca03da5_0
++defaults/osx-arm64::python-3.10.9-hc0d8a6c_2
++defaults/osx-arm64::readline-8.2-h1a28f6b_0
++defaults/osx-arm64::setuptools-65.6.3-py310hca03da5_0
++defaults/osx-arm64::sqlite-3.41.1-h80987f9_0
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::wheel-0.38.4-py310hca03da5_0
++defaults/osx-arm64::xz-5.2.10-h80987f9_1
++defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
+# update specs: ['python=3.10']
+==> 2023-03-22 21:29:29 <==
+# cmd: /Users/weiyihai/opt/anaconda3/bin/conda install -p /Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/QuestionNine numpy -y
+# conda version: 22.9.0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::numpy-1.23.5-py310hb93e574_0
++defaults/osx-arm64::numpy-base-1.23.5-py310haf87e8b_0
+# update specs: ['numpy']
+==> 2023-03-22 21:30:13 <==
+# cmd: /Users/weiyihai/opt/anaconda3/bin/conda install -p /Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/QuestionNine matplotlib -y
+# conda version: 22.9.0
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::munkres-1.1.4-py_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/osx-arm64::brotli-1.0.9-h1a28f6b_7
++defaults/osx-arm64::brotli-bin-1.0.9-h1a28f6b_7
++defaults/osx-arm64::contourpy-1.0.5-py310h525c30c_0
++defaults/osx-arm64::freetype-2.12.1-h1192e45_0
++defaults/osx-arm64::giflib-5.2.1-h80987f9_3
++defaults/osx-arm64::jpeg-9e-h80987f9_1
++defaults/osx-arm64::kiwisolver-1.4.4-py310h313beb8_0
++defaults/osx-arm64::lcms2-2.12-hba8e193_0
++defaults/osx-arm64::lerc-3.0-hc377ac9_0
++defaults/osx-arm64::libbrotlicommon-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlidec-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlienc-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libdeflate-1.17-h80987f9_0
++defaults/osx-arm64::libpng-1.6.39-h80987f9_0
++defaults/osx-arm64::libtiff-4.5.0-h313beb8_2
++defaults/osx-arm64::libwebp-1.2.4-ha3663a8_1
++defaults/osx-arm64::libwebp-base-1.2.4-h80987f9_1
++defaults/osx-arm64::lz4-c-1.9.4-h313beb8_0
++defaults/osx-arm64::matplotlib-3.7.1-py310hca03da5_0
++defaults/osx-arm64::matplotlib-base-3.7.1-py310h46d7db6_0
++defaults/osx-arm64::packaging-23.0-py310hca03da5_0
++defaults/osx-arm64::pillow-9.4.0-py310h313beb8_0
++defaults/osx-arm64::pyparsing-3.0.9-py310hca03da5_0
++defaults/osx-arm64::tornado-6.2-py310h1a28f6b_0
++defaults/osx-arm64::zstd-1.5.2-h8574219_0
+# update specs: ['matplotlib']

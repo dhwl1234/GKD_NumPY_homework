@@ -1,0 +1,12 @@
+prefix=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/QuestionNine
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+enginesdir=${libdir}/engines-1.1
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 1.1.1t
+Libs: -L${libdir} -lcrypto
+Libs.private:  
+Cflags: -I${includedir}

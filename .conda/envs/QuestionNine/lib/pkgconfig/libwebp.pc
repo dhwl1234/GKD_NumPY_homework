@@ -1,0 +1,11 @@
+prefix=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/QuestionNine
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libwebp
+Description: Library for the WebP graphics format
+Version: 1.2.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -lwebp
+Libs.private: -lm -D_THREAD_SAFE -pthread 
