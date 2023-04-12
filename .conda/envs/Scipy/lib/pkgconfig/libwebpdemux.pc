@@ -1,0 +1,11 @@
+prefix=/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/Scipy
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libwebpdemux
+Description: Library for parsing the WebP graphics format container
+Version: 1.2.4
+Requires: libwebp >= 0.2.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lwebpdemux

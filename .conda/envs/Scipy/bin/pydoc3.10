@@ -1,0 +1,5 @@
+#!/Users/weiyihai/中国科学院/中国科学院大学/国科大博一下学期资料数据/国科大Python/homework/GKD_NumPY_homework/.conda/envs/Scipy/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
